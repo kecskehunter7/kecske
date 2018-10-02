@@ -1,2 +1,1 @@
 # kecske
-ez egy kecske
